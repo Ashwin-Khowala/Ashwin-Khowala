@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwin KHowala</h1>
+<h1 align="center">Hi 👋, I'm Ashwin Khowala</h1>
 <h3 align="center">A Aspiring Softeware developer from India</h3>
 
 - 🌱 I’m currently learning **Frameworks, DSA**
