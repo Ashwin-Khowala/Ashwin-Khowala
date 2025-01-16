@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **MERN Stack, DSA, Graph Algorithms, Verilog**  
 - 💻 Exploring **AI/ML, Web Development, App Development**  
-- 📊 Passionate about **Social Entrepreneurship and Sustainable Solutions**  
 - 📫 How to reach me: **ashwinkhowala1@gmail.com**  
 
 ---
