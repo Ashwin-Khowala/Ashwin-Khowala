@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwin Khowala</h1>
 <h3 align="center">An Aspiring Software Developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack, DSA, Graph Algorithms, Verilog**  
+- 🌱 I’m currently learning **MERN Stack, DSA**  
 - 💻 Exploring **AI/ML, Web Development, App Development**  
 - 📫 How to reach me: **ashwinkhowala1@gmail.com**  
 
