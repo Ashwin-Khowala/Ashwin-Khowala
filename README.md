@@ -36,7 +36,7 @@
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://verilog.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" alt="Verilog" width="40" height="40"/></a>
+  <!--<a href="https://verilog.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" alt="Verilog" width="40" height="40"/></a>-->
 </p>
 
 ---
