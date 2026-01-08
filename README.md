@@ -18,7 +18,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-Khowala&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-Khowala&theme=radical" alt="GitHub Streak Stats"/>
 </p>
-
----
-
-<h3 align="center">✨ **Let's Build Something Amazing Together!** 🚀</h3>
