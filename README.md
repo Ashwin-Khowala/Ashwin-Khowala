@@ -1,29 +1,26 @@
 <h1 align="center">Hi, I'm Ashwin Khowala</h1>
 
 <p align="center">
-Building products with AI.
+Building software that solves real problems.
 </p>
 
-I'm a software engineer who enjoys turning ideas into products. I work across AI, web, mobile, and cloud, with a focus on building systems that solve real problems and scale. I enjoy exploring new technologies, shipping quickly, and learning by building.
+I'm a software engineer who enjoys taking ideas from zero to production. I like working across AI, web, mobile, and cloud, building systems that are practical, scalable, and designed for real users.
+
+Currently building **ClubFyndr**.
 
 ### Tech
 
 **Languages**  
 TypeScript • JavaScript • Python • C++ • SQL
 
-**Frameworks**  
+**AI**  
+ LangChain • LangGraph 
+
+**Development**  
 React • Next.js • React Native • Node.js • Express
 
-**AI**  
-LangChain • LangGraph 
-
 **Databases**  
-PostgreSQL • Supabase • MongoDB • Redis • Prisma
+PostgreSQL • MongoDB • Supabase • Redis • Prisma
 
 **Cloud**  
 Docker • Kubernetes • Azure • Cloudflare • GitHub Actions
-
-### Connect
-
-- LinkedIn: https://www.linkedin.com/in/ashwin-khowala/
-- Email: ashwinkhowala1@gmail.com
