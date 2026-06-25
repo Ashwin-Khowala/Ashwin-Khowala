@@ -15,7 +15,7 @@ TypeScript • JavaScript • Python • C++ • SQL
 React • Next.js • React Native • Node.js • Express
 
 **AI**  
-OpenAI • Gemini • LangChain • LangGraph • MCP • RAG
+LangChain • LangGraph 
 
 **Databases**  
 PostgreSQL • Supabase • MongoDB • Redis • Prisma
